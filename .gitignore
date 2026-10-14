@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+.env.*
+!.env.example
+supabase/.temp/
+supabase/.branches/
+.verification/
