@@ -1,2 +1,2 @@
-# technikium-app
-educational
+#technikium-app
+ONLY EDUCATIONAL PORPOSES 
